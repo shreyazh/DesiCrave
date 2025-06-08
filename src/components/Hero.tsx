@@ -154,7 +154,7 @@ const Hero = () => {
                 <div className="flex items-center space-x-3">
                   <div className="w-12 h-12 rounded-full overflow-hidden">
                     <img
-                      src="2.jpg"
+                      src="https://img-web-scrape-folder.vercel.app/2.jpg"
                       alt="Chef"
                       className="w-full h-full object-cover"
                     />
