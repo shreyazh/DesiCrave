@@ -28,7 +28,7 @@ const ProductShowcase = () => {
       reviews: 234,
       category: 'sweet',
       tags: ['traditional', 'bihar', 'festival'],
-      image: 'https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://static.vecteezy.com/system/resources/previews/016/283/625/non_2x/thekua-is-an-indian-sweet-dish-popular-in-uttarpradesh-bihar-and-jharkhand-offering-for-the-chhat-festival-free-photo.jpg',
       vendor: language === 'en' ? 'Meera\'s Kitchen' : 'मीरा की रसोई',
       isVegan: true,
       deliveryTime: '30-45 min'
@@ -43,7 +43,7 @@ const ProductShowcase = () => {
       reviews: 156,
       category: 'pickles',
       tags: ['tangy', 'homemade', 'mango'],
-      image: 'https://images.pexels.com/photos/4197439/pexels-photo-4197439.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhpNtQBiLnG97ZIC-3S05vHqMiCpxFlJHWpbMQ9fw6XWXUd3SFX5t3ZHFuLFq95_shCegpDCNkL4q9dPYqOafm89t0o18yJs5bM02uWMyQTOBguYPS8TSdJ-wHRHe6_iCPjtbrVaEuXaPa/s640/SAVE_20200506_185452.jpg',
       vendor: language === 'en' ? 'Dadi\'s Recipes' : 'दादी के नुस्खे',
       isVegan: true,
       deliveryTime: '20-30 min'
@@ -58,7 +58,7 @@ const ProductShowcase = () => {
       reviews: 89,
       category: 'snacks',
       tags: ['healthy', 'roasted', 'protein'],
-      image: 'https://images.pexels.com/photos/6419724/pexels-photo-6419724.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://redcliffelabs.com/myhealth/_next/image/?url=https%3A%2F%2Fmyhealth-redcliffelabs.redcliffelabs.com%2Fmedia%2Fblogcard-images%2FNone%2F757fbfbc-3922-4d22-960f-98db4b46920d.webp&w=1920&q=75',
       vendor: language === 'en' ? 'Healthy Bites' : 'स्वस्थ नाश्ता',
       isVegan: true,
       deliveryTime: '15-25 min'
@@ -73,7 +73,7 @@ const ProductShowcase = () => {
       reviews: 312,
       category: 'spicy',
       tags: ['steamed', 'chutney', 'tibetan'],
-      image: 'https://images.pexels.com/photos/4518835/pexels-photo-4518835.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://cdn.foodaciously.com/static/recipes/ee9fd204-25cf-4e97-be5a-d7626470d420/easy-vegan-momos-recipe-7ab341154a5c13d6d9642300e7e2c92d-1280.jpg',
       vendor: language === 'en' ? 'Himalayan Kitchen' : 'हिमालयन रसोई',
       isVegan: false,
       deliveryTime: '25-35 min'
@@ -88,7 +88,7 @@ const ProductShowcase = () => {
       reviews: 67,
       category: 'snacks',
       tags: ['crispy', 'spiced', 'appetizer'],
-      image: 'https://images.pexels.com/photos/7625102/pexels-photo-7625102.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://www.whiskaffair.com/wp-content/uploads/2020/09/Masala-Papad-2-3.jpg',
       vendor: language === 'en' ? 'Spice Garden' : 'मसाला बगीचा',
       isVegan: true,
       deliveryTime: '10-20 min'
@@ -103,7 +103,7 @@ const ProductShowcase = () => {
       reviews: 145,
       category: 'sweet',
       tags: ['bengali', 'jaggery', 'traditional'],
-      image: 'https://images.pexels.com/photos/6529437/pexels-photo-6529437.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieerpWR5xCL-6D4FWSvsJJr53eKcamnka1KbB2XdLckqeT4hgwjOQhsR0gUtkSw4XoT81qjaFn_foH88i-UlSpNZGjU20zITm1WgKOAMAZCqDBzNYmw68mlbwtRBktzsG19CIWWZQ8GCVb/w1200-h630-p-k-no-nu/blogger-image-955859415.jpg',
       vendor: language === 'en' ? 'Bengal Sweets' : 'बंगाल मिठाई',
       isVegan: false,
       deliveryTime: '35-45 min'
