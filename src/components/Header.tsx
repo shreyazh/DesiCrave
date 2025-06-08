@@ -41,7 +41,7 @@ const Header = () => {
             whileHover={{ scale: 1.05 }}
           >
             <div className="w-10 h-10 bg-gradient-to-br from-saffron-500 to-turmeric-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">DC</span>
+              <span className="text-white font-bold text-lg">देC</span>
             </div>
             <div>
               <h1 className="text-xl font-heading font-bold text-gray-800 dark:text-white">
