@@ -125,7 +125,7 @@ const Footer = () => {
             >
               <div className="flex items-center space-x-3 mb-6">
                 <div className="w-12 h-12 bg-gradient-to-br from-saffron-500 to-turmeric-500 rounded-xl flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">DC</span>
+                  <span className="text-white font-bold text-xl">देC</span>
                 </div>
                 <div>
                   <h2 className="text-2xl font-heading font-bold">DesiCrave</h2>
@@ -150,7 +150,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-4 h-4 text-saffron-400 flex-shrink-0" />
-                  <span className="text-gray-400 text-sm">+1 (416) 123-4567</span>
+                  <span className="text-gray-400 text-sm">+1 123-4567-890</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-4 h-4 text-saffron-400 flex-shrink-0" />
@@ -231,7 +231,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © 2024 DesiCrave. {language === 'en' ? 'All rights reserved.' : 'सभी अधिकार सुरक्षित।'}
+              © 2025 DesiCrave. {language === 'en' ? 'All rights reserved.' : 'सभी अधिकार सुरक्षित।'}
             </p>
             
             <div className="flex items-center space-x-2 text-sm text-gray-400">
@@ -240,7 +240,7 @@ const Footer = () => {
               </span>
               <Heart className="w-4 h-4 text-red-500 fill-current" />
               <span>
-                {language === 'en' ? 'for the Indian community in Canada' : 'कनाडा में भारतीय समुदाय के लिए'}
+                {language === 'en' ? 'for the Indian Community in Canada' : 'कनाडा में भारतीय समुदाय के लिए'}
               </span>
             </div>
 
