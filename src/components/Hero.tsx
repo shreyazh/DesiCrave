@@ -154,14 +154,14 @@ const Hero = () => {
                 <div className="flex items-center space-x-3">
                   <div className="w-12 h-12 rounded-full overflow-hidden">
                     <img
-                      src="https://d2gjqh9j26unp0.cloudfront.net/profilepic/5c6aa3854fe0b31f291b98a976d690f3"
+                      src="2.jpg"
                       alt="Chef"
                       className="w-full h-full object-cover"
                     />
                   </div>
                   <div>
                     <p className="font-semibold text-gray-800 dark:text-white text-sm">
-                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'प्रिया की रसोई'}
+                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'शैलजा की रसोई'}
                     </p>
                     <div className="flex items-center">
                       <Star className="w-4 h-4 text-yellow-400 fill-current" />
