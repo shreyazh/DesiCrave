@@ -137,7 +137,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-full h-96 lg:h-[500px] rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://imgk.timesnownews.com/story/veg-thali.gif"
                   alt="Authentic Indian Food"
                   className="w-full h-full object-cover"
                 />
@@ -154,14 +154,14 @@ const Hero = () => {
                 <div className="flex items-center space-x-3">
                   <div className="w-12 h-12 rounded-full overflow-hidden">
                     <img
-                      src="https://img-web-scrape-folder.vercel.app/2.jpg"
+                      src="https://d2gjqh9j26unp0.cloudfront.net/profilepic/5c6aa3854fe0b31f291b98a976d690f3"
                       alt="Chef"
                       className="w-full h-full object-cover"
                     />
                   </div>
                   <div>
                     <p className="font-semibold text-gray-800 dark:text-white text-sm">
-                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'शैलजा की रसोई'}
+                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'प्रिया की रसोई'}
                     </p>
                     <div className="flex items-center">
                       <Star className="w-4 h-4 text-yellow-400 fill-current" />
