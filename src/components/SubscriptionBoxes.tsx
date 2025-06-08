@@ -16,7 +16,7 @@ const SubscriptionBoxes = () => {
       price: 599,
       originalPrice: 799,
       period: language === 'en' ? 'per month' : 'प्रति माह',
-      image: 'https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://khoyamithai.com/cdn/shop/files/DSC05574.jpg?v=1727936542&width=3376',
       features: [
         language === 'en' ? '8-10 traditional sweets' : '8-10 पारंपरिक मिठाइयां',
         language === 'en' ? 'Regional specialties' : 'क्षेत्रीय विशेषताएं',
@@ -35,7 +35,7 @@ const SubscriptionBoxes = () => {
       price: 449,
       originalPrice: 599,
       period: language === 'en' ? 'per month' : 'प्रति माह',
-      image: 'https://images.pexels.com/photos/4197439/pexels-photo-4197439.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://savithrammas.com/site/image/cache/catalog/A-Guide-to-Savithrammas-Exotic-Pickles-and-Spices-1080x540.jpg',
       features: [
         language === 'en' ? '4-5 pickle varieties' : '4-5 अचार की किस्में',
         language === 'en' ? '3-4 spice blends' : '3-4 मसाला मिश्रण',
@@ -54,7 +54,7 @@ const SubscriptionBoxes = () => {
       price: 399,
       originalPrice: 549,
       period: language === 'en' ? 'per month' : 'प्रति माह',
-      image: 'https://images.pexels.com/photos/6419724/pexels-photo-6419724.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://i.ytimg.com/vi/7DaOjDgXJjs/maxresdefault.jpg',
       features: [
         language === 'en' ? '6-8 healthy snacks' : '6-8 स्वस्थ नाश्ते',
         language === 'en' ? 'Low oil preparation' : 'कम तेल से तैयार',
