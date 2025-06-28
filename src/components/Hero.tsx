@@ -161,7 +161,7 @@ const Hero = () => {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-800 dark:text-white text-sm">
-                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'प्रिया की रसोई'}
+                      {language === 'en' ? 'Shailaja\'s Kitchen' : 'शैलजा की रसोई'}
                     </p>
                     <div className="flex items-center">
                       <Star className="w-4 h-4 text-yellow-400 fill-current" />
