@@ -9,10 +9,10 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      name: 'Priya Sharma',
+      name: 'Shreyash Srivastva',
       location: 'Toronto, ON',
       role: language === 'en' ? 'Software Engineer & Food Enthusiast' : 'सॉफ्टवेयर इंजीनियर और खाद्य प्रेमी',
-      image: 'https://images.pexels.com/photos/1499327/pexels-photo-1499327.jpeg?auto=compress&cs=tinysrgb&w=150',
+      image: 'https://img-web-scrape-folder.vercel.app/1705508817304.jpeg',
       rating: 5,
       review: language === 'en' 
         ? "DesiCrave has been a lifesaver! Being away from home for 5 years, I was desperately missing authentic Indian flavors. The monthly mithai box brings back so many childhood memories. The quality is exceptional, and everything tastes just like my grandmother's recipes."
@@ -22,10 +22,10 @@ const Testimonials = () => {
     },
     {
       id: 2,
-      name: 'Rajesh Patel',
+      name: 'Anubhav Anant',
       location: 'Mississauga, ON',
       role: language === 'en' ? 'Business Owner & Home Chef' : 'व्यापारी और होम शेफ',
-      image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=150',
+      image: 'https://media.licdn.com/dms/image/v2/C4D03AQFZzyPvzyQ4mQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516774873680?e=1756339200&v=beta&t=6o1ylNZuieEKY-3xTFd46tDmOkHSsdUszc-km_BjO78',
       rating: 5,
       review: language === 'en' 
         ? "As a vendor on DesiCrave, I've been able to share my mother's traditional recipes with the Indian community here. The platform is incredibly user-friendly, and the support team helps with everything from photography to marketing. My monthly revenue has grown by 300%!"
@@ -35,10 +35,10 @@ const Testimonials = () => {
     },
     {
       id: 3,
-      name: 'Anita Singh',
+      name: 'Praveen Srivastva',
       location: 'Brampton, ON',
       role: language === 'en' ? 'Teacher & Mother of Two' : 'शिक्षिका और दो बच्चों की माँ',
-      image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150',
+      image: 'https://media.licdn.com/dms/image/v2/C5103AQFi6J2ahOozIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1567488075017?e=1756339200&v=beta&t=rmvnxwHHhzHTS31c8-xIizHizCXATvA0alBiUK_Ixvw',
       rating: 5,
       review: language === 'en' 
         ? "My kids are third-generation Canadian-Indians, and I was worried they wouldn't connect with their cultural roots. DesiCrave's food has become a bridge to our heritage. Every meal is a story, and the quality ingredients make me feel confident about what I'm feeding my family."
@@ -48,10 +48,10 @@ const Testimonials = () => {
     },
     {
       id: 4,
-      name: 'David Thompson',
+      name: 'Sanjeev Chauhan',
       location: 'Toronto, ON',
       role: language === 'en' ? 'Food Blogger & Cultural Explorer' : 'फूड ब्लॉगर और सांस्कृतिक अन्वेषक',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150',
+      image: 'https://media.licdn.com/dms/image/v2/D4E03AQFLT7poDbIlrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730805749980?e=1756339200&v=beta&t=wmOm7E8STlq77IqF5bFmtByiryCmlKASUjEHzbjKO70',
       rating: 5,
       review: language === 'en' 
         ? "As someone passionate about exploring world cuisines, DesiCrave opened up a whole new world of authentic Indian flavors for me. The vendors are incredibly knowledgeable about their recipes' history and cultural significance. It's not just food delivery – it's cultural education!"
