@@ -35,7 +35,7 @@ const Testimonials = () => {
     },
     {
       id: 3,
-      name: 'Praveen Srivastva',
+      name: 'Praveen Srivastava',
       location: 'Brampton, ON',
       role: language === 'en' ? 'Teacher & Mother of Two' : 'शिक्षिका और दो बच्चों की माँ',
       image: 'https://media.licdn.com/dms/image/v2/C5103AQFi6J2ahOozIw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1567488075017?e=1756339200&v=beta&t=rmvnxwHHhzHTS31c8-xIizHizCXATvA0alBiUK_Ixvw',
